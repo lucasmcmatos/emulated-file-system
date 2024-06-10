@@ -10,7 +10,7 @@ This project was developed for the Operating Systems course (P3). The "File Mana
 - Graphical user interface for interacting with the system.
 - Simulation of a basic file system with typical file manipulation operations.
 
-##Libraries Used
+## Libraries Used
 - datetime: Date and time manipulation.
 - tkinter: Graphical user interface.
 - customtkinter: Custom components for tkinter.
@@ -19,7 +19,7 @@ This project was developed for the Operating Systems course (P3). The "File Mana
 - os: Interaction with the operating system.
 - math: Mathematical functions.
 
-##Project Structure
+## Project Structure
 FileManagerSystem/
 ├── images/
     ├── AJLLS.png
@@ -46,7 +46,7 @@ FileManagerSystem/
 - menagement_memory.py: Implementation of memory management functionalities.
 - requirements.txt: List of project dependencies.
 
-# Installation
+## Installation
 1. Clone the repository:
 
 Copy code at terminal: `git clone https://github.com/yourusername/Emulated File System.git`
@@ -61,7 +61,7 @@ Copy code at terminal: `venv\Scripts\activate` (Windows)
 
 Copy code at terminal: `pip install -r requirements.txt`
 
-#Usage
+##Usage
 To start the system, run the main.py file:
 
 Copy code at terminal: `python main.py`
