@@ -22,9 +22,6 @@ This project was developed for the Operating Systems course (P3). The "File Mana
 ## Project Structure
 FileManagerSystem/  
 ├── images/  
-    ├── AJLLS.png  
-    ├── ajllslogo.ico  
-    └── ajllslogo.png  
 ├── auth.py  
 ├── README.md  
 ├── interface_logged.py  
