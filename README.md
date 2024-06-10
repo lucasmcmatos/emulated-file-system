@@ -20,20 +20,20 @@ This project was developed for the Operating Systems course (P3). The "File Mana
 - math: Mathematical functions.
 
 ## Project Structure
-FileManagerSystem/
-├── images/
-    ├── AJLLS.png
-    ├── ajllslogo.ico
-    └── ajllslogo.png
-├── auth.py
-├── README.md
-├── interface_logged.py
-├── interface_login.py
-├── main.py
-├── menagement_diretory.py
-├── menagement_logged.py
-├── menagement_memory.py
-└── requirements.txt/
+FileManagerSystem/  
+├── images/  
+    ├── AJLLS.png  
+    ├── ajllslogo.ico  
+    └── ajllslogo.png  
+├── auth.py  
+├── README.md  
+├── interface_logged.py  
+├── interface_login.py  
+├── main.py  
+├── menagement_diretory.py  
+├── menagement_logged.py  
+├── menagement_memory.py  
+└── requirements.txt/  
 
 - images/: Folder containing image assets.
 - auth.py: Handles authentication-related functionalities.
@@ -49,22 +49,22 @@ FileManagerSystem/
 ## Installation
 1. Clone the repository:
 
-Copy code at terminal: `git clone https://github.com/yourusername/Emulated File System.git`
-Copy code at terminal: `cd Emulated File System`
+- Copy code at terminal: `git clone https://github.com/yourusername/Emulated File System.git`
+- Copy code at terminal: `cd Emulated File System`
 
 2. Create and activate a virtual environment:
 
-Copy code at terminal: `python -m venv venv`
-Copy code at terminal: `venv\Scripts\activate` (Windows)
+- Copy code at terminal: `python -m venv venv`
+- Copy code at terminal: `venv\Scripts\activate` (Windows)
 
 3. Install the dependencies:
 
-Copy code at terminal: `pip install -r requirements.txt`
+- Copy code at terminal: `pip install -r requirements.txt`
 
-##Usage
+## Usage
 To start the system, run the main.py file:
 
-Copy code at terminal: `python main.py`
+- Copy code at terminal: `python main.py`
 
-#License
+## License
 
