@@ -1,0 +1,5 @@
+datetime
+tk
+customtkinter
+Pillow
+anytree
