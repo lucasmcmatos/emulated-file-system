@@ -35,16 +35,16 @@ FileManagerSystem/
 ├── menagement_memory.py  
 └── requirements.txt/  
 
-- images/: Folder containing image assets.
-- auth.py: Handles authentication-related functionalities.
-- README.md: Project documentation.
-- interface_logged.py: Implementation of the logged-in user interface.
-- interface_login.py: Implementation of the login interface.
-- main.py: Entry point of the system.
-- menagement_directory.py: Implementation of directory management functionalities.
-- menagement_logged.py: Implementation of logged-in user management functionalities.
-- menagement_memory.py: Implementation of memory management functionalities.
-- requirements.txt: List of project dependencies.
+- `images/`: Folder containing image assets.
+- `auth.py`: Handles authentication-related functionalities.
+- `README.md`: Project documentation.
+- `interface_logged.py`: Implementation of the logged-in user interface.
+- `interface_login.py`: Implementation of the login interface.
+- `main.py`: Entry point of the system.
+- `menagement_directory.py`: Implementation of directory management functionalities.
+- `menagement_logged.py`: Implementation of logged-in user management functionalities.
+- `menagement_memory.py`: Implementation of memory management functionalities.
+- `requirements.txt`: List of project dependencies.
 
 ## Installation
 1. Clone the repository:
