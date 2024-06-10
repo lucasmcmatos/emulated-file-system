@@ -46,8 +46,8 @@ FileManagerSystem/
 ## Installation
 1. Clone the repository:
 
-- Copy code at terminal: `git clone https://github.com/yourusername/Emulated File System.git`
-- Copy code at terminal: `cd Emulated File System`
+- Copy code at terminal: `git clone https://github.com/lucasmcmatos/emulated-file-system.git`
+- Copy code at terminal: `cd emulated-file-system`
 
 2. Create and activate a virtual environment:
 
