@@ -1,7 +1,7 @@
 # Implementação dos diretórios do sistema de arquivos
 
 # Importando os métodos e bibliotecas necessários para o sistema
-from anytree import Node, RenderTree
+from anytree import Node
 from datetime import datetime
 
 # Definao da classe que comportara todos os metodos do sistema
@@ -108,15 +108,3 @@ class Directory:
         else:
             print(f"O diretorio '{parent_path}' nao foi encontrado. [" +  datetime.now().strftime("%Y-%m-%d %H:%M:%S") + "]")
             return 2
-
-
-# DESCOMENTAR CODIGO A BAIXO PARA TESTAR APENAS ESSA PAGINA DO SISTEMA
-
-# diretorio = Directory()
-
-# diretorio.add_node("user_lucasmatos" , "C:/users")
-# diretorio.add_node("documents" , "C:/users/user_lucasmatos")
-# diretorio.remove_node("documents", "C:/users/user_lucasmatos")
-
-# for pre, fill, node in RenderTree(diretorio.root):
-#     print(f"{pre}{node.name}")
